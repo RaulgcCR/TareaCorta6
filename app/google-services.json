@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579137144567",
+    "firebase_url": "https://tarea-6-inventario.firebaseio.com",
+    "project_id": "tarea-6-inventario",
+    "storage_bucket": "tarea-6-inventario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579137144567:android:ead58e16a1e2565d",
+        "android_client_info": {
+          "package_name": "com.example.raul.inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579137144567-9g5pirsk2c0tbd8dapfn8nrj2rurealr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccB0DwjKFpZqI5QxN_1nSxnOPmKYmn9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

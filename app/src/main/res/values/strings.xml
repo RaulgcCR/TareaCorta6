@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Inventario</string>
+    <string name="title_activity_lista__productos_">Lista_Productos_Activity</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+</resources>
